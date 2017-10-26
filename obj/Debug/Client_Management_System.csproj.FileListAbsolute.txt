@@ -1,0 +1,40 @@
+c:\users\user\documents\visual studio 2015\Projects\Client_Management_System\Client_Management_System\bin\Debug\Client_Management_System.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Client_Management_System\Client_Management_System\bin\Debug\Client_Management_System.exe
+c:\users\user\documents\visual studio 2015\Projects\Client_Management_System\Client_Management_System\bin\Debug\Client_Management_System.pdb
+c:\users\user\documents\visual studio 2015\Projects\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.exe
+c:\users\user\documents\visual studio 2015\Projects\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.pdb
+c:\users\user\documents\visual studio 2015\Projects\Client_Management_System\Client_Management_System\bin\Debug\ClientService.dll
+c:\users\user\documents\visual studio 2015\Projects\Client_Management_System\Client_Management_System\bin\Debug\ClientService.pdb
+F:\Client_Management_System\Client_Management_System\bin\Debug\Client_Management_System.exe.config
+F:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.exe
+F:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.pdb
+E:\Client_Management_System\Client_Management_System\bin\Debug\Client_Management_System.exe.config
+E:\Client_Management_System\Client_Management_System\bin\Debug\Client_Management_System.exe
+E:\Client_Management_System\Client_Management_System\bin\Debug\Client_Management_System.pdb
+E:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.Form1.resources
+E:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.Properties.Resources.resources
+E:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.csproj.GenerateResource.Cache
+E:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.exe
+E:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.pdb
+E:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.csprojResolveAssemblyReference.cache
+G:\Client_Management_System\Client_Management_System\bin\Debug\Client_Management_System.exe.config
+G:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.exe
+G:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.pdb
+G:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.Form1.resources
+G:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.Form2.resources
+G:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.Properties.Resources.resources
+G:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.csproj.GenerateResource.Cache
+G:\Client_Management_System\Client_Management_System\bin\Debug\Client_Management_System.exe
+G:\Client_Management_System\Client_Management_System\bin\Debug\Client_Management_System.pdb
+G:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.csprojResolveAssemblyReference.cache
+F:\Client_Management_System\Client_Management_System\bin\Debug\Client_Management_System.exe
+F:\Client_Management_System\Client_Management_System\bin\Debug\Client_Management_System.pdb
+F:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.csprojResolveAssemblyReference.cache
+F:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.Form1.resources
+F:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.Form2.resources
+F:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.Properties.Resources.resources
+F:\Client_Management_System\Client_Management_System\obj\Debug\Client_Management_System.csproj.GenerateResource.Cache
