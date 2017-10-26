@@ -1,0 +1,15 @@
+E:\Client_Management_System\clientLibrary\bin\Debug\clientLibrary.dll.config
+E:\Client_Management_System\clientLibrary\bin\Debug\clientLibrary.dll
+E:\Client_Management_System\clientLibrary\bin\Debug\clientLibrary.pdb
+E:\Client_Management_System\clientLibrary\obj\Debug\clientLibrary.dll
+E:\Client_Management_System\clientLibrary\obj\Debug\clientLibrary.pdb
+G:\Client_Management_System\clientLibrary\bin\Debug\clientLibrary.dll.config
+G:\Client_Management_System\clientLibrary\bin\Debug\clientLibrary.dll
+G:\Client_Management_System\clientLibrary\bin\Debug\clientLibrary.pdb
+G:\Client_Management_System\clientLibrary\obj\Debug\clientLibrary.dll
+G:\Client_Management_System\clientLibrary\obj\Debug\clientLibrary.pdb
+F:\Client_Management_System\clientLibrary\bin\Debug\clientLibrary.dll.config
+F:\Client_Management_System\clientLibrary\bin\Debug\clientLibrary.dll
+F:\Client_Management_System\clientLibrary\bin\Debug\clientLibrary.pdb
+F:\Client_Management_System\clientLibrary\obj\Debug\clientLibrary.dll
+F:\Client_Management_System\clientLibrary\obj\Debug\clientLibrary.pdb
